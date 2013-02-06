@@ -9,23 +9,21 @@ using namespace std;
 int main(){
 freopen("input.txt","r",stdin);
 freopen("output.txt","w",stdout);
-int n,j,co,sum;
-int i=1;
+int n,x=1,sum,i,c;
 cin>>n;
-while(n)
+while(n>1)
 {
-    j=i;
-    co=0;
+    x++;
     sum=0;
-    while(j)
+    c=0;
+    i=x;
+    while(i)
     {
-        sum+=j%10;
-        j/=10;
-        co++;
+        sum+=i%10;
+        c++;
+        i/=10;
     }
-    if(sum%co==0) --n;
-    ++i;
-}
---i;
-cout << i--;
+    if(sum%c==0) --n;
+    }
+cout<<x;
 }
