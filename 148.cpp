@@ -6,7 +6,8 @@ Author: "https://github.com/dieter48;
 #include <stdio.h>
 #include <iostream>
 using namespace std;
-
+/* Recursive Euclidean algorithm
+   returns GCF (ru: NOD) */
  int gcd(int a, int b) {
    return b? gcd(b, a % b) : a;
  }
