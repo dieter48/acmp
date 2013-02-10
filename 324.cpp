@@ -1,7 +1,7 @@
 /*
 Task: "Chetiregznachniy palidrom";
 Link: "http://acmp.ru/index.asp?main=task&id_task=324";
-Author: "https://github.com/dieter48;
+Author: "https://github.com/dieter48";
 */
 #include <iostream>
 #include <stdio.h>

@@ -1,7 +1,7 @@
 /*
 Task: "Perepis'";
 Link: "http://acmp.ru/index.asp?main=task&id_task=131";
-Author: "https://github.com/dieter48;
+Author: "https://github.com/dieter48";
 */
 #include <stdio.h>
 #include <iostream>

@@ -1,7 +1,7 @@
 /*
 Task: "Pyat'y pyat' - dvadcat' pyat'";
 Link: "http://acmp.ru/index.asp?main=task&id_task=3";
-Author: "https://github.com/dieter48;
+Author: "https://github.com/dieter48";
 */
 #include <iostream>
 #include <stdio.h>

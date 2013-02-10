@@ -1,7 +1,7 @@
 /*
 Task: "Dlina otrezka";
 Link: "http://acmp.ru/index.asp?main=task&id_task=529";
-Author: "https://github.com/dieter48;
+Author: "https://github.com/dieter48";
 */
 #include <iostream>
 #include <iomanip>

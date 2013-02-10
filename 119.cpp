@@ -1,7 +1,7 @@
 /*
 Task: "Sortirovka vremeni";
 Link: "http://acmp.ru/index.asp?main=task&id_task=119";
-Author: "https://github.com/dieter48;
+Author: "https://github.com/dieter48";
 */
 #include <iostream>
 #include <stdio.h>

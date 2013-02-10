@@ -1,7 +1,7 @@
 /*
 Task: "Krasivie chisla - 2";
 Link: "http://acmp.ru/index.asp?main=task&id_task=383";
-Author: "https://github.com/dieter48;
+Author: "https://github.com/dieter48";
 */
 #include <iostream>
 #include <stdio.h>

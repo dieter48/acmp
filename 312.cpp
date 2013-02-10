@@ -1,7 +1,7 @@
 /*
 Task: "Arifmeticheskaya progressiya";
 Link: "http://acmp.ru/index.asp?main=task&id_task=312";
-Author: "https://github.com/dieter48;
+Author: "https://github.com/dieter48";
 */
 #include <stdio.h>
 #include <iostream>
