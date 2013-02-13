@@ -3,14 +3,14 @@
 Далее идут оные в формате "ИмяУченика ФамилияУчениека Школа".
 Вывести в output.txt количество учащихся 10 школы.
 
-input.txt:			| output.txt
-7					| 3
-asd sdgg 10			|
-adf dfhjj 11		|
-fdgsh fdjj 12		|
-sdgdh dhdj 10		|
-sdgsg djdj 10		|
-sdff djdgf 13		|
+input.txt:			 output.txt
+7				        	 3
+asd sdgg 10			
+adf dfhjj 11		
+fdgsh fdjj 12		
+sdgdh dhdj 10		
+sdgsg djdj 10		
+sdff djdgf 13		
 
 */
 #include <iostream>
