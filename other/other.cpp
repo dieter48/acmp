@@ -13,22 +13,21 @@ sdgsg djdj 10
 sdff djdgf 13		
 
 */
+
 #include <iostream>
 #include <stdio.h>
 #include <string>
-#include <stdlib.h>
 using namespace std;
 int main(){
 freopen("input.txt","r",stdin);
 freopen("output.txt","w",stdout);
-int r,n,res=0,i;
+int n,res=0,i;
 string a,b,c;
 cin>>n;
 for(i=0;i<n;i++)
 {
     cin>>a>>b>>c;
-    r=atoi(c.c_str());
-    if(10==r) res++;
+    if("10"==c) res++;
 }
 cout<<res;
 }
