@@ -4,7 +4,7 @@
 Вывести в output.txt количество учащихся 10 школы.
 
 input.txt:			 output.txt
-7				        	 3
+7				         3
 asd sdgg 10			
 adf dfhjj 11		
 fdgsh fdjj 12		
